@@ -1,0 +1,6 @@
+{
+  "name": "Aether Digital Craftsmanship",
+  "description": "A high-performance portfolio bridging strategic rigor and digital craftsmanship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
